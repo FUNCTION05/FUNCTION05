@@ -1,4 +1,4 @@
-# Hey there! I'm [Krittish Barman] 👋
+# Hey there! I'm Krittish Barman 👋
 
 🛠️ Full-stack learner | 🧠 Problem Solver | 🎨 Creative Coder  
 I build, break, fix, and repeat until it’s clean, fast, and functional.
@@ -35,8 +35,8 @@ Check out my repositories for:
 
 ## 📬 Let's Connect!
 
-- 🔗 LinkedIn: [www.linkedin.com/in/krittish-barman]  
-- 📧 Email: [bkrittish@gmail.com]  
+- 🔗 LinkedIn: www.linkedin.com/in/krittish-barman 
+- 📧 Email: bkrittish@gmail.com
 
 ---
 
