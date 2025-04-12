@@ -1,26 +1,43 @@
- # 👋 Hey, I'm [Krittish Barman]!
+# Hey there! I'm [Krittish Barman] 👋
 
-🎓 Final year BCA student | 💻 Code. Create. Secure. Repeat.  
-🔥 Turning coffee into code & ideas into projects  
-🌟 Tech explorer: Software Dev | Web/App Dev | AI/ML | Cybersecurity
+🛠️ Full-stack learner | 🧠 Problem Solver | 🎨 Creative Coder  
+I build, break, fix, and repeat until it’s clean, fast, and functional.
+---
 
-## 🧠 Tech Toolbox:
+## 🛠️ Tech Stack & Skills
+
 - 💻 Languages: Java | Python | C
-- 🌐 Frontend: HTML | CSS | JavaScript | (learning React)
-- 🔧 Backend: (learning Node.js)
-- 🧩 Data Structures & Algorithms (DSA)
-- 🎨 Design: Photoshop & basic UI/UX skills
-- 🛡️ Cybersecurity: Completed internship + hands-on practice
+- 🌐 Web Dev: HTML | CSS | JavaScript | React (learning) | Node.js (learning)
+- 📚 DSA: Strong understanding of core concepts & problem-solving
+- 🛡️ Cybersecurity: Internship experience + hands-on practice
+- 🎨 Design Tools: Photoshop & UI/UX basics
 
-## 🚀 What I'm Up To:
-- Full-stack web apps 💻
-- Mini AI/ML projects 🤖
-- Designing cool stuff in Photoshop 🎨
+---
 
-## 🗂️ Projects & Repos
-> “Your code speaks louder than your bio.”  
-Check out my repositories below – always learning, always building 🚀
+## 💼 Experience & Learning
 
-## 📫 Let's Connect:
-- 💼 LinkedIn: [ www.linkedin.com/in/krittish-barman ]
-- 📧 Email: [bkrittish@gmail.com]
+- ✅ Completed a Cybersecurity Internship  
+- ⚙️ Building full-stack projects to sharpen development skills  
+- 🤖 Exploring ML with Python  
+- 🎯 Solving DSA challenges daily
+
+---
+
+## 📂 Projects
+
+Check out my repositories for:
+- Full-stack web apps  
+- Python tools & mini projects  
+- Creative UI designs  
+- Cybersecurity scripts & notes
+
+---
+
+## 📬 Let's Connect!
+
+- 🔗 LinkedIn: [www.linkedin.com/in/krittish-barman]  
+- 📧 Email: [bkrittish@gmail.com]  
+
+---
+
+> “Tech is a playground — I'm here to build, break, learn, and grow.”
